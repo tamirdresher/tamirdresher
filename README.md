@@ -5,7 +5,8 @@
 I work as Chief Architect of Clarizen (www.clarizen.com) and the President of the [Israeli Chapter of IASA Global](https://www.israelclouds.com/iasaisrael).
 
 I love writing code and a big fan of .NET (Framework and Core) 
-My books: 
+
+##### My books: 
 - (Rx.NET in Action)[http://manning.com/dresher/?a_aid=8ec75026&a_bid=8ec75026] 
 - Hands-On Full-Stack Web Development with ASP.NET Core 
 
