@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋, my name is Tamir Dresher
+#### A software architect passionate about scaling distributed systems and making them reactive 
+![A software architect passionate about scaling distributed systems and making them reactive ](https://lrqxxq.am.files.1drv.com/y4mXVvaQphG-1hgJK_-PZztvUHGK-10qyOp2wqs2bK-XdtmBi7YvdXg_g2aXefy4TGIIncZxEMkHWStKXbHrEPGlWWBZcendSfsAY1-A0Oth6B3a6KNsOTuN0DLbJuXCq6KcDAIwgPpPr8d7YrZenspZt-R939Ku_NTG92b9o0XmjtVtV_YEG_KhjmS5ha3l3tDPW_cJ0Tvz9bzCjWlERzYLA?width=1182&height=354&cropmode=none)
 
-<!--
-**tamirdresher/tamirdresher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work as Chief Architect of Clarizen (www.clarizen.com) and the President of the [Israeli Chapter of IASA Global](https://www.israelclouds.com/iasaisrael).
 
-Here are some ideas to get you started:
+I love writing code and a big fan of .NET (Framework and Core) 
+My books: 
+- (Rx.NET in Action)[http://manning.com/dresher/?a_aid=8ec75026&a_bid=8ec75026] 
+- Hands-On Full-Stack Web Development with ASP.NET Core 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 💬 Ask me about C# / .NET Core / Software Architecture / Cloud Computing 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tamirdresher)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/tamir_dresher)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tamirdresher//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/tamir_dresher)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/472463)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCJjIx4kJC-tEuFDO5wwN5kg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.tamirdresher.com)  [<img src='https://mvp.microsoft.com/Content/Images/MVP_Reconnect_Logo_Blue_Color_RGB.png' alt='microsoft' height='40'>](https://mvp.microsoft.com/en-us/PublicProfile/5002689?fullName=Tamir%20Dresher)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tamirdresher&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/tamirdresher)  
