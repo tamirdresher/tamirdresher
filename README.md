@@ -2,7 +2,7 @@
 #### A software architect passionate about scaling distributed systems and making them reactive 
 ![A software architect passionate about scaling distributed systems and making them reactive ](https://lrqxxq.am.files.1drv.com/y4mXVvaQphG-1hgJK_-PZztvUHGK-10qyOp2wqs2bK-XdtmBi7YvdXg_g2aXefy4TGIIncZxEMkHWStKXbHrEPGlWWBZcendSfsAY1-A0Oth6B3a6KNsOTuN0DLbJuXCq6KcDAIwgPpPr8d7YrZenspZt-R939Ku_NTG92b9o0XmjtVtV_YEG_KhjmS5ha3l3tDPW_cJ0Tvz9bzCjWlERzYLA?width=1182&height=354&cropmode=none)
 
-I work as Chief Architect at Clarizen (www.clarizen.com) and the President of the [Israeli Chapter of IASA Global](https://www.israelclouds.com/iasaisrael).
+I work as System Architect at Payoneer (www.payoneer.com) and the President of the [Israeli Chapter of IASA Global](https://www.israelclouds.com/iasaisrael).
 <br/>Teaching is a big part of my life and since 2013 i'm teaching software engineering at the Ruppin Academic Center [<img src='https://www.ruppin.ac.il/style%20library/ruppin/Images/logo_en.png' height='45' style='vertical-align:middle'>](https://www.ruppin.ac.il)
 
 I love writing code and a big fan of .NET (Framework and Core) 
